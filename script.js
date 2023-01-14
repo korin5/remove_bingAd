@@ -2,12 +2,13 @@
 // @name         必应搜索去广告
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  去除必应搜索的前几条广告
 // @author       Liang
 // @match        *.bing.com/search?q=*
 // @include      *.bing.com/search?q=*
 // @icon         https://cn.bing.com/favicon.ico
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {

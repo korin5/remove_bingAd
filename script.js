@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         必应搜索去广告
+// @name         必应去广告
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  去除必应搜索的前几条广告

@@ -8,7 +8,7 @@
 // @include      *.bing.com/search?q=*
 // @icon         https://cn.bing.com/favicon.ico
 // @grant        none
-// @license      MIT
+// @license      GPL-3.0
 // ==/UserScript==
 
 (function() {
